@@ -1,5 +1,4 @@
 from bale import Bot , Message
-import schedule
 import time
 bot = Bot (token = '1119681388:qtZI2h3TJ4zlWdC4cuUismy18pBIMm4S72U')
 A = 0
